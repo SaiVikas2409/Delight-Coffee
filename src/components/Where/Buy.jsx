@@ -1,5 +1,5 @@
 import React from 'react'
-import WorldMapImg from "../../assets/World-map.png";
+import WorldMapImg from "../../assets/world-map.png";
 import {motion} from "framer-motion";
 
 
