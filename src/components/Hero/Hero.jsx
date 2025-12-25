@@ -1,5 +1,5 @@
 import React from 'react';
-import BgImage from "../../assets/bg-image.jpeg";
+import BgImage from "../../assets/bg-Image.jpeg";
 import CoffeeMain from "../../assets/black.png";
 import Navbar from "../Navbar/Navbar.jsx";
 import { motion } from "framer-motion";
